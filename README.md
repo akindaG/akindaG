@@ -292,16 +292,16 @@ The repository currently contains **30 backend test functions** covering authent
 
 [Repository](https://github.com/akindaG/sentiment-ai-system)
 
-Customer-feedback NLP pipeline with:
+Compact ML deployment project with:
 
-- TF-IDF
-- Logistic Regression
-- Naive Bayes
-- FastAPI
-- Streamlit
-- Docker
+- text cleaning + TF-IDF
+- Logistic Regression training
+- serialized model/vectorizer artifacts
+- FastAPI inference
+- Streamlit interface
+- Docker packaging
 
-**Reported result:** Logistic Regression ~89% accuracy / ~0.89 F1.
+**Portfolio emphasis:** reproducible ML-system structure rather than unverified headline metrics.
 
 </td>
 <td width="50%" valign="top">
