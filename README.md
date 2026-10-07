@@ -1,93 +1,114 @@
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:7C3AED&height=230&section=header&text=Akinda%20Gunarathne&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Data%20Engineering%20%E2%80%A2%20ML%20Engineering%20%E2%80%A2%20Applied%20AI&descAlignY=58&descSize=17" alt="Akinda Gunarathne profile banner"/>
+</p>
+
 <div align="center">
 
-# Akinda Gunarathne
-
-### Data Engineering • Machine Learning • Applied AI
-
-**Building production-oriented data platforms, ML systems, and intelligent applications.**
+**I build data pipelines, analytical platforms, ML systems, and production-oriented AI applications.**
 
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Akinda_Gunarathne-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akinda-gunarathne-5405191b2)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Engineering_Work-111827?style=for-the-badge&logo=githubpages&logoColor=white)](https://github.com/akindaG/akindaG-data-science-portfolio)
 [![GitHub](https://img.shields.io/badge/GitHub-akindaG-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akindaG)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Projects-111827?style=for-the-badge&logo=githubpages&logoColor=white)](https://github.com/akindaG/akindaG-data-science-portfolio)
 
 <br>
 
-![Data Engineering](https://img.shields.io/badge/Primary_Focus-Data_Engineering-2563EB?style=flat-square)
-![ML Engineering](https://img.shields.io/badge/Path-ML_Engineering-7C3AED?style=flat-square)
-![Internship](https://img.shields.io/badge/Available-April_2027-16A34A?style=flat-square)
+![Focus](https://img.shields.io/badge/PRIMARY_FOCUS-DATA_ENGINEERING-2563EB?style=flat-square)
+![Path](https://img.shields.io/badge/NEXT-ML_ENGINEERING-7C3AED?style=flat-square)
+![Availability](https://img.shields.io/badge/INTERNSHIP_AVAILABILITY-APRIL_2027-16A34A?style=flat-square)
 
 </div>
 
 ---
 
-## 👋 About Me
+## 30-second profile
 
 <table>
 <tr>
-<td width="62%" valign="top">
+<td width="50%" valign="top">
 
-I am a **Data Science undergraduate** building toward a career in **Data Engineering and ML Engineering**.
+### Who I am
 
-My work focuses on taking projects beyond notebooks into complete systems with:
+Data Science undergraduate pursuing **two STEM degrees** while building toward **Data Engineering and ML Engineering**.
 
-- reliable **ETL and data pipelines**
-- structured **data models and warehouses**
-- tested **ML/NLP services**
-- production-style **REST APIs**
-- **Docker, CI/CD, databases, and deployment**
-- clear architecture and technical documentation
+I prefer projects that move beyond notebooks into:
 
-My near-term target is a strong **Data Engineering or ML Engineering internship from April 2027**.
+- reproducible ETL pipelines
+- dimensional models and warehouses
+- tested ML services
+- REST APIs and databases
+- CI/CD and containers
+- deployable user-facing systems
 
 </td>
-<td width="38%" valign="top">
+<td width="50%" valign="top">
 
-### 🎓 Education
+### What I am targeting
 
-**BSc (Hons) in IT, Data Science**  
-SLTC Research University
+**Primary role:** Data Engineering  
+**Secondary role:** ML Engineering  
+**Longer-term direction:** Production AI / intelligent data platforms  
+**Internship availability:** April 2027
 
-**BSc in Physical Science**  
-University of Sri Jayewardenepura
-
-### 🎯 Direction
-
-`Data Engineering`  
-↓  
-`Cloud & Distributed Systems`  
-↓  
-`ML Engineering`  
-↓  
-`Production AI`
+**Education**
+- BSc (Hons) in IT, Data Science, SLTC Research University
+- BSc in Physical Science, University of Sri Jayewardenepura
 
 </td>
 </tr>
 </table>
 
+> **Positioning:** I am building strong data-engineering fundamentals first, then layering distributed systems, cloud infrastructure, ML deployment, and MLOps on top.
+
 ---
 
-## 🧰 Technical Stack
+## Proof of engineering
+
+Instead of only listing tools, these are concrete things already implemented in my repositories.
+
+| Data Engineering | Machine Learning / NLP | Backend / Product Engineering |
+| --- | --- | --- |
+| **6 dimensions + 1 fact table** in a Kimball-style warehouse | **6 model families** explored in SupportIQ | **30 backend test functions** present in CreatorOS API |
+| **SCD Type 2** with date-aware historical lookup | **28,587** original multilingual support tickets | PostgreSQL + SQLAlchemy + Alembic |
+| Two-run incremental ETL demonstration | **16,338** English tickets used in shared experiments | JWT auth + social OAuth flows |
+| Automated PostgreSQL CI verification | BiLSTM ticket-type accuracy: **85.53%** | AI generation + analytics + scheduling |
+| Historical surrogate-key validation | Tuned SVM queue-routing accuracy: **55.08%** | Deployment-oriented configuration |
 
 <div align="center">
 
-### Data Engineering
+[![Data Warehouse](https://img.shields.io/badge/FLAGSHIP-ENTERPRISE_DATA_WAREHOUSE-0F766E?style=for-the-badge)](https://github.com/akindaG/Enterprise-Manufacturing-Data-Warehouse)
+[![SupportIQ](https://img.shields.io/badge/ML_SYSTEM-SUPPORTIQ-7C3AED?style=for-the-badge)](https://github.com/akindaG/NLP_Group_35)
+[![CreatorOS](https://img.shields.io/badge/AI_PLATFORM-CREATOROS-1D4ED8?style=for-the-badge)](https://github.com/akindaG/creatoros-api)
+
+</div>
+
+---
+
+## Technical toolkit
+
+<div align="center">
+
+### Data Engineering & Analytics
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![ETL](https://img.shields.io/badge/ETL-Pipelines-0F766E?style=for-the-badge)
-![Data Warehousing](https://img.shields.io/badge/Data-Warehousing-0E7490?style=for-the-badge)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000)
+
+`ETL` · `Dimensional Modeling` · `Star Schemas` · `SCD Type 2` · `Data Warehousing` · `Analytics`
 
 ### Machine Learning & AI
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-EB5B27?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-Transformer_Models-7C3AED?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Gemini](https://img.shields.io/badge/LLM-Integration-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
+
+`TF-IDF` · `SVM` · `BiLSTM` · `DistilBERT` · `Model Evaluation` · `LLM Integration`
 
 ### Engineering & Delivery
 
@@ -96,65 +117,63 @@ University of Sri Jayewardenepura
 ![AWS](https://img.shields.io/badge/AWS-Fundamentals-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 </div>
 
 ---
 
-# 🚀 Featured Engineering Work
+# Flagship projects
 
-## 01 · Enterprise Manufacturing Data Warehouse
+## 01. Enterprise Manufacturing Data Warehouse
 
-> **My strongest current Data Engineering project.**  
-> End-to-end manufacturing analytics warehouse based on a Kimball-style dimensional model.
+> **Best evidence of my current Data Engineering direction.**
 
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github)](https://github.com/akindaG/Enterprise-Manufacturing-Data-Warehouse)
-![Python](https://img.shields.io/badge/Python-ETL-3776AB?style=flat-square&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Warehouse-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SCD2](https://img.shields.io/badge/Modeling-SCD_Type_2-0F766E?style=flat-square)
-![CI](https://img.shields.io/badge/CI-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+[![Repository](https://img.shields.io/badge/Repository-Open-181717?style=flat-square&logo=github)](https://github.com/akindaG/Enterprise-Manufacturing-Data-Warehouse)
+[![CI](https://github.com/akindaG/Enterprise-Manufacturing-Data-Warehouse/actions/workflows/milestone5-etl-demo.yml/badge.svg)](https://github.com/akindaG/Enterprise-Manufacturing-Data-Warehouse/actions/workflows/milestone5-etl-demo.yml)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Model](https://img.shields.io/badge/Model-Kimball_Star_Schema-0F766E?style=flat-square)
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### What I built
+### Architecture
 
-- Python ETL with Pandas + SQLAlchemy
-- PostgreSQL staging and warehouse layers
-- Kimball-style star schema
-- explicit fact-table grain
-- surrogate-key resolution
-- **Slowly Changing Dimension Type 2**
-- incremental fact loading
-- analytical SQL
+- normalized operational source model
+- reproducible CSV source-state extracts
+- staging layer
+- six dimensions
+- `Fact_Production`
+- explicit fact grain
+- date-aware SCD Type 2 history
+- analytical SQL layer
 
 </td>
 <td width="50%" valign="top">
 
 ### Engineering evidence
 
-- historical dimension preservation
-- reproducible source-state runs
-- referential validation
-- automated quality checks
-- documented architecture
-- BI-ready warehouse design
-- business KPI layer
+- Python + Pandas + SQLAlchemy ETL
+- surrogate-key resolution
+- incremental fact loading
+- duplicate and null validation
+- referential-integrity validation
+- historical SCD verification
+- automated PostgreSQL 16 CI workflow
 
 </td>
 </tr>
 </table>
 
 ```text
-Operational Data
+Operational Source
        │
        ▼
-   Python ETL
+ Extract / Validate
        │
        ▼
-  Staging Layer
+    Staging
        │
        ▼
 Dimensions + SCD2
@@ -163,187 +182,282 @@ Dimensions + SCD2
  Fact_Production
        │
        ▼
-Analytics / Power BI
+ Analytics / BI
 ```
+
+**Controlled demonstration results:** 4 production events · 385 units · 7 defects · 1.82% defect rate · 85,000 production cost
+
+[Explore architecture and ETL →](https://github.com/akindaG/Enterprise-Manufacturing-Data-Warehouse)
 
 ---
 
-## 02 · SupportIQ
+## 02. SupportIQ, Customer Support Intelligence Platform
 
-> **Customer Support Intelligence Platform using NLP**  
-> An end-to-end ML system for support-ticket routing, confidence-aware predictions, analytics, and human review.
+> **End-to-end NLP system with model experimentation, deployed inference, analytics, and human-review logic.**
 
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github)](https://github.com/akindaG/NLP_Group_35)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-000000?style=flat-square&logo=vercel)](https://nlp-group-35.vercel.app)
-![FastAPI](https://img.shields.io/badge/API-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/UI-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+[![Repository](https://img.shields.io/badge/Repository-Open-181717?style=flat-square&logo=github)](https://github.com/akindaG/NLP_Group_35)
+[![Live](https://img.shields.io/badge/Live_App-Vercel-000000?style=flat-square&logo=vercel)](https://nlp-group-35.vercel.app)
+[![Quality](https://github.com/akindaG/NLP_Group_35/actions/workflows/quality.yml/badge.svg)](https://github.com/akindaG/NLP_Group_35/actions/workflows/quality.yml)
 
-### Models explored
+<table>
+<tr>
+<td width="50%" valign="top">
 
-`Logistic Regression` · `SVM` · `XGBoost` · `GRU` · `BiLSTM` · `DistilBERT`
+### ML experimentation
 
-### System capabilities
+**Ticket type**
+- Logistic Regression: 83.69%
+- **BiLSTM: 85.53%**
 
-- model comparison across classical ML, recurrent networks, and transformers
-- FastAPI inference backend
-- React analytics interface
-- prediction confidence and alternative routing
-- human-review flags for uncertain predictions
-- documented model results and CI checks
+**Queue routing**
+- **Tuned SVM: 55.08%**
+- XGBoost: 53.06%
+- DistilBERT: 36.83%
+- GRU: 34.64%
+
+</td>
+<td width="50%" valign="top">
+
+### My ownership
+
+- exploratory data analysis
+- XGBoost experiments
+- DistilBERT experiments
+- backend API work
+- application integration
+- deployment work
+
+**Deployed model:** TF-IDF + XGBoost
+
+</td>
+</tr>
+</table>
 
 ```text
-Support Ticket
-      │
-      ▼
+Ticket Text
+    │
+    ▼
 Preprocessing
-      │
-      ▼
- NLP / ML Model
-      │
-      ▼
-    FastAPI
-      │
-      ├── Confidence
-      ├── Alternatives
-      └── Human Review
-      │
-      ▼
-React Analytics UI
+    │
+    ▼
+ TF-IDF
+    │
+    ▼
+ XGBoost
+    │
+    ├── Queue prediction
+    ├── Confidence
+    ├── Top alternatives
+    └── Human-review flag
+    │
+    ▼
+ FastAPI → React Analytics
 ```
 
----
+**Engineering trade-off:** the tuned SVM produced the best verified experimental routing score, while XGBoost remained the deployed model because its serialized artifacts were already integrated with runtime preprocessing, confidence output, prediction history, and the application.
 
-## 03 · CreatorOS AI
-
-> **Production-oriented AI social growth platform backend**
-
-[![Backend](https://img.shields.io/badge/Backend_Repository-181717?style=flat-square&logo=github)](https://github.com/akindaG/creatoros-api)
-[![Frontend](https://img.shields.io/badge/Frontend-Next.js-000000?style=flat-square&logo=nextdotjs)](https://github.com/akindaG/creatoros-web)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Gemini](https://img.shields.io/badge/AI-Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
-
-**Engineering highlights**
-
-- authentication and profile management
-- social OAuth workflows
-- PostgreSQL + SQLAlchemy + Alembic
-- AI-assisted content generation
-- scheduling and publishing workflows
-- analytics services
-- media handling
-- automated backend testing
-- deployment-oriented configuration
+[Try the live application →](https://nlp-group-35.vercel.app)
 
 ---
 
-## 04 · Sentiment AI System
+## 03. CreatorOS AI
 
-> End-to-end customer-feedback sentiment classification system.
+> **Full-stack AI platform backend with authentication, social integrations, scheduling, analytics, and AI services.**
 
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github)](https://github.com/akindaG/sentiment-ai-system)
-![ML](https://img.shields.io/badge/ML-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![API](https://img.shields.io/badge/API-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Container-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+[![Backend](https://img.shields.io/badge/API-creatoros--api-181717?style=flat-square&logo=github)](https://github.com/akindaG/creatoros-api)
+[![Frontend](https://img.shields.io/badge/Web-creatoros--web-000000?style=flat-square&logo=nextdotjs)](https://github.com/akindaG/creatoros-web)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Tests](https://img.shields.io/badge/Test_Functions-30-16A34A?style=flat-square)
 
-**Pipeline:**  
-`Text Cleaning → TF-IDF → Model Training → Evaluation → FastAPI → Streamlit → Docker`
+**System scope**
 
----
+`JWT Auth` · `Facebook OAuth` · `Instagram OAuth` · `PostgreSQL` · `Alembic` · `Gemini` · `Supabase Storage` · `Scheduling` · `Analytics` · `Publishing Workflows`
 
-## 05 · E-commerce Sales Analytics & Forecasting
+The repository currently contains **30 backend test functions** covering authentication, CRUD, media validation, AI configuration, OAuth, publishing, scheduling, analytics, and image normalization.
 
-> Business analytics project combining forecasting, customer segmentation, product performance, and interactive reporting.
+> I describe this as a test inventory, not a claim that every test is currently passing. The repository itself records actual execution results.
 
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github)](https://github.com/akindaG/E-commerce-Sales-Dashboard---Forecasting)
-
-`Python` · `Pandas` · `Forecasting` · `RFM Analysis` · `Streamlit` · `Plotly`
+[Explore the backend →](https://github.com/akindaG/creatoros-api)
 
 ---
 
-## 🏗️ How I Think About Engineering
+## Additional applied work
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Sentiment AI System
+
+[Repository](https://github.com/akindaG/sentiment-ai-system)
+
+Customer-feedback NLP pipeline with:
+
+- TF-IDF
+- Logistic Regression
+- Naive Bayes
+- FastAPI
+- Streamlit
+- Docker
+
+**Reported result:** Logistic Regression ~89% accuracy / ~0.89 F1.
+
+</td>
+<td width="50%" valign="top">
+
+### E-commerce Sales Analytics
+
+[Repository](https://github.com/akindaG/E-commerce-Sales-Dashboard---Forecasting)
+
+Business analytics system exploring:
+
+- revenue forecasting
+- RFM segmentation
+- product analysis
+- inventory-oriented insights
+- Streamlit / Plotly dashboards
+
+</td>
+</tr>
+</table>
+
+---
+
+## Decisions I can explain in an interview
+
+A portfolio should make technical conversations easier. These are examples of decisions documented in my work:
+
+| Topic | Engineering question |
+| --- | --- |
+| **Data modeling** | Why use a star schema for production analytics instead of querying the OLTP model directly? |
+| **History** | How does SCD Type 2 preserve a machine's historical factory assignment without changing old facts? |
+| **Incremental ETL** | How do I prevent duplicate facts across repeated pipeline runs? |
+| **Model deployment** | Why deploy XGBoost when another experimental model achieved a higher routing score? |
+| **Human-in-the-loop ML** | When should a low-confidence ticket be routed for manual review? |
+| **Backend architecture** | How do authentication, OAuth, scheduling, storage, AI services, and analytics fit into one API? |
+
+---
+
+## How I approach projects
 
 ```text
-┌───────────────────────┐
-│     Data Sources      │
-└───────────┬───────────┘
-            ▼
-┌───────────────────────┐
-│   Ingestion / ETL     │
-└───────────┬───────────┘
-            ▼
-┌───────────────────────┐
-│ Storage + Data Model  │
-└───────────┬───────────┘
-            ▼
-┌───────────────────────┐
-│ Transform / Features  │
-└───────────┬───────────┘
-            ▼
-┌───────────────────────┐
-│ ML / Analytics Layer  │
-└───────────┬───────────┘
-            ▼
-┌───────────────────────┐
-│   API / Application   │
-└───────────┬───────────┘
-            ▼
-┌───────────────────────┐
-│ Tests • CI/CD • Ops   │
-└───────────────────────┘
+Problem
+   │
+   ▼
+Data / Requirements
+   │
+   ▼
+Ingestion + Validation
+   │
+   ▼
+Storage + Data Model
+   │
+   ▼
+Transformations / Features
+   │
+   ▼
+Analytics or ML
+   │
+   ▼
+API / Product Surface
+   │
+   ▼
+Tests + CI/CD + Deployment
+   │
+   ▼
+Evidence + Documentation
 ```
 
-</div>
-
-I try to optimize projects for **reproducibility, measurable results, clean architecture, maintainability, documentation, and operational reliability**.
+**Principles:** reproducibility · measurable evidence · explicit architecture · testability · honest model reporting · operational thinking
 
 ---
 
-## 📚 Currently Strengthening
+## Building next
 
-| Now | Next |
-| --- | --- |
-| Advanced SQL | Apache Spark |
-| Data modeling | dbt |
-| Python ETL | Airflow |
-| Warehouse design | Kafka fundamentals |
-| AWS fundamentals | Cloud data architecture |
-| ML deployment | MLOps foundations |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Strengthening now
+
+- advanced SQL
+- warehouse design
+- Python ETL
+- data quality
+- AWS fundamentals
+- ML deployment
+
+</td>
+<td width="50%" valign="top">
+
+### Next layer
+
+- Apache Spark
+- dbt
+- Airflow
+- Kafka fundamentals
+- cloud data architecture
+- MLOps foundations
+
+</td>
+</tr>
+</table>
 
 <details>
-<summary><b>Career trajectory I am building toward</b></summary>
+<summary><b>Career trajectory</b></summary>
 
 <br>
 
 ```text
-2027
+April 2027
 Data Engineering / ML Engineering Internship
-            │
-            ▼
-Data Engineer
-            │
-            ▼
-Cloud + Distributed Data Systems
-            │
-            ▼
-ML Engineer / MLOps
-            │
-            ▼
-Production AI & Intelligent Data Platforms
+                │
+                ▼
+          Data Engineer
+                │
+                ▼
+ Cloud + Distributed Data Systems
+                │
+                ▼
+   ML Engineering / MLOps
+                │
+                ▼
+Production AI + Intelligent Data Platforms
 ```
 
 </details>
 
 ---
 
-## 🤝 Let's Connect
+## GitHub activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=akindaG&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="Akinda GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akindaG&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Akinda top languages"/>
+
+</div>
+
+<sub>Language statistics reflect repository contents, not a ranking of professional proficiency.</sub>
+
+---
+
+## Let's connect
 
 <div align="center">
 
 ### Open to Data Engineering, ML Engineering, and Applied AI internships from **April 2027**
 
+I am especially interested in teams working on **data platforms, cloud data systems, analytics engineering, ML infrastructure, or production AI**.
+
+<br>
+
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akinda-gunarathne-5405191b2)
-[![GitHub](https://img.shields.io/badge/Explore_My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akindaG)
+[![Projects](https://img.shields.io/badge/Explore_My_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akindaG?tab=repositories)
 
 </div>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:1D4ED8,100:0F172A&height=110&section=footer" alt="Footer"/>
+</p>
